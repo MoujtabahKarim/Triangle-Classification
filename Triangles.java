@@ -28,7 +28,6 @@ import javax.swing.JSplitPane;
 import javax.swing.JToolBar;
 import javax.swing.JToggleButton;
 import javax.swing.JScrollPane;
-import net.miginfocom.swing.MigLayout;
 
 public class Triangles {
 
